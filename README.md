@@ -83,59 +83,51 @@ Achieving this credential reflects a strong commitment to cybersecurity best pra
 
 ### 🔗 [View Certificate](https://isc2.obrizum.io/org/cc/certificate/fd95c707-fddb-4f39-b3b4-473d025f914a)
 
-🛡️ CC Domain 3 – Access Control Concepts
-Issued by: (ISC)² – International Information System Security Certification Consortium
-Issue Date: August 12, 2025
-Validity: 3 Years (Non-transferable)
-🔗 📄 View Certificate
+# Domain 3: Access Control Concepts Certificate
 
-📚 Overview
-The CC Domain 3 – Access Control Concepts certification, issued by (ISC)², affirms foundational knowledge of modern access control mechanisms that are critical for protecting digital infrastructure and sensitive information.
+## Certificate Details
+- **Issued by:** (ISC)² – International Information System Security Certification Consortium  
+- **Issue Date:** August 12, 2025  
+- **Validity:** 3 Years  
+- **Certificate Link:** [View Certificate](https://isc2.obrizum.io/org/cc/certificate/bf664083-272f-4c57-8d92-e429c34c028d)
 
-This domain is part of the Certified in Cybersecurity (CC) credential track and covers key strategies used to ensure proper identity verification, access limitation, and secure system interaction.
+---
 
-🔑 Key Topics Include
-🔐 Access Control Strategies
-Discretionary Access Control (DAC)
+The **Domain 3: Access Control Concepts** certificate is part of the **Certified in Cybersecurity (CC)** track from **(ISC)²**, a globally recognized leader in cybersecurity education and certification.
 
-Mandatory Access Control (MAC)
+This certification validates foundational knowledge and practical skills in access control mechanisms crucial to securing organizational resources and sensitive information. It demonstrates the ability to manage who can access what — a core principle in cybersecurity defense.
 
-Role-Based Access Control (RBAC)
+### Core Competencies
 
-Rule-Based & Attribute-Based Access Control
+- **Access Control Models:**  
+  Understanding and applying key models including Discretionary Access Control (DAC), Mandatory Access Control (MAC), Role-Based Access Control (RBAC), and Attribute-Based Access Control (ABAC).
 
-🧩 Security Control Protocols
-Logical vs. Physical Access Controls
+- **Logical and Physical Controls:**  
+  Knowledge of how electronic and physical security controls work together to protect systems and data.
 
-Authentication Methods (MFA, Biometrics, Tokens)
+- **User Privilege Management:**  
+  Implementing best practices like least privilege, separation of duties, and preventing privilege creep to minimize security risks.
 
-Authorization and Accountability Models
+- **Access Provisioning and Deprovisioning:**  
+  Managing user lifecycle to ensure appropriate access during onboarding, role changes, and offboarding.
 
-👥 User Privilege Administration
-Identity and Access Management (IAM)
+- **Authentication & Authorization Mechanisms:**  
+  Familiarity with passwords, biometrics, tokens, multi-factor authentication (MFA), and related technologies.
 
-Provisioning and Deprovisioning of Accounts
+### Career Impact
 
-Privileged Access Management (PAM)
+This credential prepares professionals for roles such as:
 
-Separation of Duties (SoD) and Least Privilege Enforcement
+- Access Management Specialist  
+- Security Analyst  
+- IAM (Identity and Access Management) Support  
+- Junior Cybersecurity Engineer
 
-🎯 Why This Certification Matters
-The Domain 3: Access Control Concepts credential provides practical knowledge of how organizations define and enforce who can access what — and under what conditions. It is essential for entry-level professionals or IT staff transitioning into cybersecurity roles.
+It also serves as a solid foundation for pursuing advanced certifications like CISSP, SSCP, or CompTIA Security+.
 
-Ideal for roles such as:
+### About (ISC)²
 
-Identity & Access Management Analyst
+(ISC)² is an international nonprofit organization with over 30 years of experience in cybersecurity training and certification. Their certifications are widely respected and recognized worldwide, enabling professionals to advance their careers and support stronger security postures globally.
 
-Junior Security Administrator
-
-Cybersecurity Support Specialist
-
-GRC & Compliance Trainee
-
-🏢 About (ISC)²
-(ISC)² is a global, non-profit leader in cybersecurity training and certification. Known for elite credentials such as CISSP, SSCP, and CC, (ISC)² empowers professionals to protect critical systems, networks, and data worldwide.
-
-
-Thank you for visiting my certification portfolio. Feel free to reach out for more information about my cybersecurity skills and achievements.
+---
 
