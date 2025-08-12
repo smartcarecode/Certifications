@@ -44,7 +44,7 @@ You can verify this certification online here:
 
 ---
 
-## 🛡 Certification: CC Domain 2 – Incident Response, Business Continuity & Disaster Recovery Concepts
+## 🛡 CC Domain 2 – Incident Response, Business Continuity & Disaster Recovery Concepts
 
 **Issued by:** [(ISC)² – International Information System Security Certification Consortium](https://www.isc2.org/)  
 **Issue Date:** August 11, 2025  
