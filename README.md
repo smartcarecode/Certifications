@@ -83,7 +83,9 @@ Achieving this credential reflects a strong commitment to cybersecurity best pra
 
 ### 🔗 [View Certificate](https://isc2.obrizum.io/org/cc/certificate/fd95c707-fddb-4f39-b3b4-473d025f914a)
 
-# Domain 3: Access Control Concepts Certificate
+---
+
+# Domain 3: Access Control Concepts 
 
 ## Certificate Details
 - **Issued by:** (ISC)² – International Information System Security Certification Consortium  
