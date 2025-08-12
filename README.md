@@ -1,50 +1,70 @@
 # 🎓 Certifications
 
 ---
+## 🛡️ CC Domain 1 – Security Principles Certification
 
-# 🛡️ CC Domain 1: Security Principles
-
-Issued by: (ISC)² – International Information System Security Certification Consortium
-Issue Date: August 10, 2025
-Validity: 3 Years (Non‑transferable)
-
----
-
-## 📚 Certification Overview
-
-This certification validates foundational knowledge in essential security principles that protect information systems and digital assets. Key areas covered include:
-
-- **Confidentiality, Integrity, and Availability (CIA Triad)**  
-  The fundamental pillars of information security.
-- **Access Controls and Identity Management**  
-  Ensuring only authorized users access sensitive information.
-- **Security Governance and Compliance**  
-  Understanding policies, standards, and legal regulations.
-- **Risk Management**  
-  Identifying, evaluating, and mitigating security threats.
-- **Incident Response and Recovery**  
-  Preparing for, detecting, and recovering from security incidents.
+**Issued by:** [(ISC)² – International Information System Security Certification Consortium](https://www.isc2.org/)  
+**Issue Date:** August 10, 2025  
+**Validity:** 3 Years (Non-transferable)
 
 ---
 
-## 📅 Validity & Commitment
+### 📚 Overview
 
-The credential is **non-transferable** and valid for **3 years** from the issue date of **10 August 2025**, reflecting a commitment to cybersecurity best practices and ongoing professional development.
-
----
-
-## 🏢 About (ISC)²
-
-(ISC)² is a trusted non-profit organization with over 30 years of experience delivering globally recognized cybersecurity certifications. Their programs set the standard for information security professionals worldwide.
+The **CC Domain 1 – Security Principles** certification, issued by (ISC)², affirms foundational knowledge of core cybersecurity principles essential for protecting digital assets and building secure systems.  
+As part of the Certified in Cybersecurity (CC) credential track, this domain lays the groundwork for a successful cybersecurity career, covering security theory, ethical responsibilities, and risk-based thinking.
 
 ---
 
-## 🔗 Certificate Verification
+### 🔍 Key Knowledge Areas
 
-You can verify this certification online here:  
-[View Certificate](https://isc2.obrizum.io/org/cc/certificate/fd664886-8eba-496d-95bc-2be584031c55)
+- 🧱 **CIA Triad (Confidentiality, Integrity, Availability)**  
+  Understand the foundational pillars of information security and how they guide secure design.
+
+- 📜 **Security Governance**  
+  Learn how frameworks, laws, and internal policies influence organizational security strategies.
+
+- ⚖️ **Risk Management**  
+  Identify, assess, and prioritize information risks with effective mitigation strategies.
+
+- 🛡️ **Security Controls & Countermeasures**  
+  Implement preventive, detective, and corrective measures to protect systems and data.
+
+- 👥 **Roles, Responsibilities & Ethics**  
+  Explore the functions within cybersecurity teams and uphold ethical standards in practice.
+
+- 📣 **Security Awareness**  
+  Promote user accountability and build a culture of proactive security awareness.
 
 ---
+
+### 🏢 About (ISC)²
+
+[(ISC)²](https://www.isc2.org/) is a globally recognized non-profit organization focused on cybersecurity training and certification.  
+With over three decades of experience, (ISC)² is known for industry-leading certifications such as **CISSP**, **SSCP**, and **CC**, supporting professionals worldwide in advancing cybersecurity excellence.
+
+---
+
+### 🎯 Why This Certification Matters
+
+This credential demonstrates a strong grasp of the fundamental principles of cybersecurity.  
+It is ideal for those seeking entry-level roles or transitioning into cybersecurity, including:
+
+- Security Analyst  
+- IT Security Officer  
+- Junior Risk Analyst  
+- Cybersecurity Support Specialist
+
+It also serves as a launching point for pursuing more advanced security certifications and roles in governance, risk, and compliance (GRC).
+
+---
+
+### 🔗 Certificate Verification
+
+[📄 View Certificate](https://isc2.obrizum.io/org/cc/certificate/fd664886-8eba-496d-95bc-2be584031c55)
+
+---
+
 
 ## 🛡 CC Domain 2 – Incident Response, Business Continuity & Disaster Recovery Concepts
 
