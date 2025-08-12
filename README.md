@@ -44,5 +44,23 @@ You can verify this certification online here:
 
 ---
 
+## 🛡 Certification: CC Domain 2 – Incident Response, Business Continuity & Disaster Recovery Concepts
+
+**Issued by:** [(ISC)² – International Information System Security Certification Consortium](https://www.isc2.org/)  
+**Issue Date:** August 11, 2025  
+**Validity:** 3 Years (Non‑transferable)
+
+### 📚 Overview  
+This certification validates foundational knowledge in essential cybersecurity domains focused on safeguarding digital assets and ensuring organizational resilience. Core areas include:
+
+- **Incident Management**
+- **Business Continuity Strategies**
+- **Disaster Recovery & Recovery Planning**
+
+Achieving this credential reflects a strong commitment to cybersecurity best practices and continuous learning.
+
+### 🔗 [View Certificate](https://isc2.obrizum.io/org/cc/certificate/fd95c707-fddb-4f39-b3b4-473d025f914a)
+
+
 Thank you for visiting my certification portfolio. Feel free to reach out for more information about my cybersecurity skills and achievements.
 
