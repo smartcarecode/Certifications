@@ -4,7 +4,9 @@
 
 # 🛡️ CC Domain 1: Security Principles
 
-I have earned the **CC Domain 1: Security Principles** certification from **(ISC)²**, a globally recognized leader in cybersecurity certifications.
+Issued by: (ISC)² – International Information System Security Certification Consortium
+Issue Date: August 10, 2025
+Validity: 3 Years (Non‑transferable)
 
 ---
 
