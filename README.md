@@ -1,7 +1,7 @@
 # 🎓 Certifications
 
 ---
-## 🛡️ CC Domain 1 – Security Principles Certification
+## 🛡️ CC Domain 1 – Security Principles 
 
 **Issued by:** [(ISC)² – International Information System Security Certification Consortium](https://www.isc2.org/)  
 **Issue Date:** August 10, 2025  
