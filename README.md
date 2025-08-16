@@ -133,3 +133,63 @@ It also serves as a solid foundation for pursuing advanced certifications like C
 
 ---
 
+# 🛡️ CC Domain 4 – Network Security  
+**Issued by:** (ISC)² – International Information System Security Certification Consortium  
+**Issue Date:** August 16, 2025  
+**Validity:** 3 Years (Non-transferable)  
+
+---
+
+## 📚 Overview  
+The CC Domain 4 – Network Security certification, issued by (ISC)², validates essential knowledge and skills needed to secure network infrastructures and communication channels. This domain focuses on protecting data in transit, identifying network vulnerabilities, and implementing controls to defend against cyber threats.  
+
+As part of the Certified in Cybersecurity (CC) credential, this domain is critical for understanding how networks operate securely and how to prevent unauthorized access or attacks.
+
+---
+
+## 🔍 Key Knowledge Areas  
+
+### 🌐 Network Fundamentals  
+Understand the basics of network architecture, protocols (TCP/IP), and how data moves across different networks.
+
+### 🔒 Network Security Controls  
+Learn to apply firewalls, intrusion detection/prevention systems (IDS/IPS), VPNs, and segmentation to protect networks.
+
+### ⚠️ Threats and Vulnerabilities  
+Identify common network threats such as DoS/DDoS attacks, spoofing, man-in-the-middle attacks, and malware propagation.
+
+### 🛠️ Secure Network Design  
+Explore best practices for designing resilient and secure network environments, including segmentation, zoning, and least privilege principles.
+
+### 🔄 Monitoring and Incident Response  
+Understand how continuous network monitoring, logging, and incident response plans are vital to detecting and responding to network threats.
+
+---
+
+## 🏢 About (ISC)²  
+(ISC)² is a globally recognized non-profit organization focused on cybersecurity training and certification. With over three decades of experience, (ISC)² is known for industry-leading certifications such as CISSP, SSCP, and CC, supporting professionals worldwide in advancing cybersecurity excellence.
+
+---
+
+## 🎯 Why This Certification Matters  
+This credential demonstrates a strong grasp of network security concepts critical for roles such as:  
+
+- Network Security Analyst  
+- Security Engineer  
+- IT Security Administrator  
+- Cybersecurity Support Specialist  
+
+It also prepares candidates for more advanced certifications and roles focused on securing enterprise networks and cloud environments.
+
+---
+
+## 🔗 Certificate Verification  
+- [View Certificate (Local PDF)](file:///C:/Users/seleg/Downloads/790589c8-1517-4e80-9927-e4b59ed4756a.pdf)  
+- [View Certificate (Online)](https://isc2.obrizum.io/org/cc/certificate/790589c8-1517-4e80-9927-e4b59ed4756a)  
+
+---
+
+*This document serves as a testament to the foundational network security knowledge verified by (ISC)² for cybersecurity professionals worldwide.*  
+
+
+
