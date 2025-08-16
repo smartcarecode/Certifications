@@ -184,7 +184,7 @@ It also prepares candidates for more advanced certifications and roles focused o
 ---
 
 ## 🔗 Certificate Verification  
-- [View Certificate (Local PDF)](file:///C:/Users/seleg/Downloads/790589c8-1517-4e80-9927-e4b59ed4756a.pdf)  
+
 - [View Certificate (Online)](https://isc2.obrizum.io/org/cc/certificate/790589c8-1517-4e80-9927-e4b59ed4756a)  
 
 ---
