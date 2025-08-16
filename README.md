@@ -189,6 +189,24 @@ It also prepares candidates for more advanced certifications and roles focused o
 
 ---
 
+# 🛡 CC Domain 5 – Security Operations  
+**Issued by:** (ISC)² – International Information System Security Certification Consortium  
+**Issue Date:** August 17, 2025  
+**Validity:** 3 Years (Non‑transferable)  
+
+## 📚 Overview  
+This certification validates foundational knowledge in **Security Operations**, a critical domain in cybersecurity focused on detecting, responding to, and mitigating threats in real-time. Core areas include:
+
+- Monitoring and Detection
+- Incident Handling and Escalation
+- Logging and Alerting
+- Security Operations Center (SOC) Processes
+- Threat Intelligence and Analysis
+
+Achieving this credential demonstrates a strong understanding of operational cybersecurity functions and a proactive approach to protecting digital environments.
+
+🔗 [View Certificate](https://isc2.obrizum.io/org/cc/certificate/5d38101d-f2fd-44e5-9672-4bc0d819e0e8)
+
 *This document serves as a testament to the foundational network security knowledge verified by (ISC)² for cybersecurity professionals worldwide.*  
 
 
